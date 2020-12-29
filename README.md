@@ -7,6 +7,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link do curso [Python Pro](https://www.python.pro.br/modulos/pytools/)
 [![Build Status](https://travis-ci.org/lucascomaru/pytools.svg?branch=main)](https://travis-ci.org/lucascomaru/pytools)
+[![Updates](https://pyup.io/repos/github/lucascomaru/pytools/shield.svg)](https://pyup.io/repos/github/lucascomaru/pytools/)
+[![Python 3](https://pyup.io/repos/github/lucascomaru/pytools/python-3-shield.svg)](https://pyup.io/repos/github/lucascomaru/pytools/)
 
 Suportada versão 3 de Python
 
